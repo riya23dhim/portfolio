@@ -1,92 +1,29 @@
-# Riya Dhiman - Portfolio Website
+# My Portfolio
 
-A modern, responsive portfolio website built with React, TypeScript, and Tailwind CSS featuring a dark glassmorphic theme.
-
-## Quick Start
-
-1. **Install dependencies**:
-   ```bash
-   npm install
-   ```
-
-2. **Start development server**:
-   ```bash
-   npm run dev
-   ```
-
-3. **Open your browser** and navigate to `http://localhost:5173`
+Welcome to my portfolio! This project showcases my skills in **React**, **Vite**, **CSS**, and **frontend development**.
 
 ## Features
 
-- Dark glassmorphic theme with gradient accents
-- Responsive design for all screen sizes
-- Smooth scroll animations with AOS
-- Interactive components with hover effects
-- Contact form with email integration
-- Modern UI with Tailwind CSS
+- Responsive and modern UI design
+- Reusable React components
+- Smooth animations and transitions
+- Filtered project gallery
 
-## Customization
+## Tech Stack
 
-### Add Your Profile Photo
-Replace the placeholder in `src/components/HeroSection.tsx` with your actual photo:
-```tsx
-// Add your photo import and update the image src
-import profilePhoto from '/path/to/your/photo.jpg';
-// Then update the img src in the component
-```
+- **Frontend:** React, Vite, Tailwind CSS / CSS
+- **Version Control:** Git & GitHub
+- **Deployment:** Netlify
 
-### Update Contact Information
-Edit `src/components/ContactSection.tsx` and `src/components/Footer.tsx` to include your:
-- Email address
-- GitHub profile
-- LinkedIn profile
-- Location
+## Live Demo
 
-### Modify Projects
-Update the projects array in `src/components/ProjectsSection.tsx` with your actual projects:
-- Project titles and descriptions
-- Technology stacks
-- Live demo URLs
-- GitHub repository URLs
+Check out the live version here: [Portfolio Live](https://your-netlify-url.netlify.app)
 
-### Update Skills
-Edit the skills arrays in `src/components/SkillsSection.tsx` to reflect your technical expertise.
+## Projects
 
-### Change Content
-Update personal information in:
-- `src/components/AboutSection.tsx` - Your background and education
-- `src/components/HeroSection.tsx` - Your introduction and tagline
+1. **Project 1:** Short description of your first project  
+2. **Project 2:** Short description of your second project  
 
-## Build for Production
+## Author
 
-```bash
-npm run build
-```
-
-The built files will be in the `dist` folder, ready for deployment.
-
-## Deployment
-
-This portfolio can be deployed to:
-- Vercel (recommended)
-- Netlify
-- GitHub Pages
-- Any static hosting service
-
-For Vercel deployment:
-1. Push your code to GitHub
-2. Connect your repository to Vercel
-3. Deploy automatically
-
-## Technologies Used
-
-- React 18
-- TypeScript
-- Tailwind CSS
-- Vite
-- AOS (Animate On Scroll)
-- Lucide React (Icons)
-
-## License
-
-MIT License - feel free to use this template for your own portfolio!
+**Riya** – [GitHub](https://github.com/riya23dhim)
